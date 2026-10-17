@@ -132,34 +132,34 @@ schinese.role.CTFCI = "混沌突袭者"
 schinese.role.CTFQRT = "QRT 防守者"
 schinese.role.ArenaParticipant = "角斗场参与者"
 
-schinese.UIU = "特异事故处 (UIU)"
+schinese.UIU = "特异事故处"
 schinese.role.UIU_Soldier = "特异事故处 士兵"
 schinese.role.UIU_Commander = "特异事故处 指挥官"
 schinese.role.UIU_Specialist = "特异事故处 战斗专家"
 schinese.role.UIU_Clocker = "特异事故处 渗透者"
 schinese.role.UIU_Informator = "特异事故处 情报员"
 
-schinese.SKP = "异常特遣队 (SKP)"
+schinese.SKP = "异常特遣队"
 schinese.role.SKP_Soldat = "SKP 突击队员"
 schinese.role.SKP_Jager = "SKP 猎兵"
 schinese.role.SKP_Machinegunner = "SKP 机枪手"
 schinese.role.SKP_Offizier = "SKP 军官"
 
-schinese.DZ = "蛇之手 (SH)"
+schinese.DZ = "蛇之手"
 schinese.role.DZ_Grunt = "蛇之手 士兵"
 schinese.role.SCI_SpyDZ = "蛇之手 间谍"
 schinese.role.DZ_Gas = "蛇之手 特种探员"
 schinese.role.DZ_Psycho = "蛇之手 疯子"
 schinese.role.DZ_Commander = "蛇之手 指挥官"
 
-schinese.Goc = "全球超自然联盟 (GOC)"
+schinese.Goc = "全球超自然联盟"
 schinese.role.Goc_Grunt = "全球超自然联盟 士兵"
 schinese.role.Goc_Liq = "全球超自然联盟 清理者"
 schinese.role.Goc_Commander = "全球超自然联盟 指挥官"
 schinese.role.Goc_Jag = "全球超自然联盟 重装"
 schinese.role.Goc_Special = "全球超自然联盟 战斗专家"
 
-schinese.QRT = "快速反应部队 (QRT)"
+schinese.QRT = "快速反应部队"
 schinese.role.QRT_Soldier = "快速反应部队 士兵"
 schinese.role.QRT_Medic = "快速反应部队 医疗兵"
 schinese.role.QRT_ShockTrooper = "快速反应部队 突击队员"
@@ -168,7 +168,7 @@ schinese.role.QRT_Machinegunner = "快速反应部队 机枪手"
 schinese.role.QRT_Shield = "快速反应部队 盾牌手"
 schinese.role.QRT_Marksmen = "快速反应部队 精确射手"
 
-schinese.STS = "特别任务小队 (STS)"
+schinese.STS = "特别任务小队"
 schinese.role.STS_Soldier = "STS 士兵"
 schinese.role.STS_Shock = "STS 突击队员"
 schinese.role.STS_Special = "STS 特战员"
@@ -304,7 +304,7 @@ schinese.weaponry["breach_nightvision_goc"] = "GOC特供夜视仪"
 schinese.weaponry["breach_nightvision_white"] = "原型夜视仪"
 
 schinese.weaponry["item_radio"] = "对讲机"
-schinese.weaponry["item_chaos_radio"] = "CI对讲机"
+schinese.weaponry["item_chaos_radio"] = "混沌对讲机"
 
 schinese.weaponry["item_adrenaline"] = "肾上腺素"
 schinese.weaponry["item_syringe"] = "机能强化注射器"
@@ -1523,19 +1523,19 @@ schinese.desc_thiccboy = "解锁安保主管的专属外观；购买后可在设
 
 //NTF Epsilon-11
 schinese.NTF = "MTF Epsilon-11 “九尾狐”"
-schinese.role.NTF_Soldier = "九尾狐士兵"
-schinese.role.NTF_Commander = "九尾狐指挥官"
-schinese.role.NTF_Specialist = "九尾狐战斗专家"
-schinese.role.NTF_Medic = "九尾狐医疗兵"
-schinese.role.NTF_Sniper = "九尾狐狙击手"
-schinese.role.NTF_Pilot = "九尾狐机长"
+schinese.role.NTF_Soldier = "九尾狐 士兵"
+schinese.role.NTF_Commander = "九尾狐 指挥官"
+schinese.role.NTF_Specialist = "九尾狐 战斗专家"
+schinese.role.NTF_Medic = "九尾狐 医疗兵"
+schinese.role.NTF_Sniper = "九尾狐 狙击手"
+schinese.role.NTF_Pilot = "九尾狐 机长"
 
 //MTF Beta-7
 schinese.BETA7 = "MTF Beta-7 疯帽商"
 schinese["MTF Beta-7 ''Maz Hatters''"] = "MTF Beta-7 “疯帽商”"
-schinese.role.BETA7_Soldier = "Beta-7 防化兵"
-schinese.role.BETA7_Cleaner = "Beta-7 清消专员"
-schinese.role.BETA7_Commander = "Beta-7 指挥官"
+schinese.role.BETA7_Soldier = "疯帽商 士兵"
+schinese.role.BETA7_Cleaner = "疯帽商 清消专员"
+schinese.role.BETA7_Commander = "疯帽商 指挥官"
 
 schinese.tasks_beta7 = "重新收容 SCP，肃清 D 级，疏散科研人员"
 schinese.tasks_coordinate_beta7 = "率领带领 Beta-7 特遣队"
@@ -1544,11 +1544,11 @@ schinese.f2_beta7 = "机动特遣队 Beta-7 专精于应对并收容具有极高
 //MTF Nu-7
 schinese.NU7 = "MTF Nu-7 落锤"
 schinese["MTF Nu-7 ''Udar Molota''"] = "MTF Nu-7 “落锤”"
-schinese.role.NU7_Soldier = "Nu-7  步兵"
+schinese.role.NU7_Soldier = "Nu-7 士兵"
 schinese.role.NU7_Sergant = "Nu-7 作战中士"
 schinese.role.NU7_Shturm = "Nu-7 突击队员"
 schinese.role.NU7_Oper = "Nu-7 特战专家"
-schinese.role.NU7_Granade = "Nu-7 重装掷弹兵"
+schinese.role.NU7_Granade = "Nu-7 掷弹兵"
 schinese.role.NU7_Com = "Nu-7 指挥官"
 schinese.role.NU7_Jugg = "Nu-7 无畏战士"
 
@@ -1559,10 +1559,10 @@ schinese.f2_nu7 = "武装机动特遣队 Nu-7 拥有整整一个齐装满员营�
 //MTF Eta-10
 schinese.ETA10 = "MTF Eta-10 非礼勿视"
 schinese["MTF Eta-10 ''See no evil''"] = "MTF Eta-10 “非礼勿视”"
-schinese.role.ETA10_Soldier = "Eta-10 观测步兵"
-schinese.role.ETA10_Spec = "Eta-10 模因特战员"
-schinese.role.ETA10_Watcher = "Eta-10 警戒观察员"
-schinese.role.ETA10_Commander = "Eta-10 特遣分队长"
+schinese.role.ETA10_Soldier = "非礼勿视 士兵"
+schinese.role.ETA10_Spec = "非礼勿视 战斗专家"
+schinese.role.ETA10_Watcher = "非礼勿视 警戒观察员"
+schinese.role.ETA10_Commander = "非礼勿视 指挥官"
 
 schinese.tasks_eta10 = "收容清除 SCP 威胁，肃清 D 级反抗人员，协助撤离"
 schinese.tasks_coordinate_eta10 = "领导 Eta-10 编制小队"
@@ -1571,9 +1571,9 @@ schinese.f2_eta10 = "机动特遣队 Eta-10 专门负责侦测、缴获并收容
 //Chaos Insurgency Assault Squad
 schinese.CHAOS_SHTURM = "混沌分裂者精英分队"
 schinese["Chaos Insurgency Assault Squad"] = "混沌分裂者精英分队"
-schinese.role.Chaos_sh_soldier = "混沌分裂者精英分队突击步兵"
-schinese.role.Chaos_sh_leuit = "混沌分裂者精英分队分队中尉"
-schinese.role.Chaos_sh_jugg = "混沌分裂者精英分队无畏战士"
+schinese.role.Chaos_sh_soldier = "CI精英分队 士兵"
+schinese.role.Chaos_sh_leuit = "CI精英分队 中尉"
+schinese.role.Chaos_sh_jugg = "CI精英分队 无畏战士"
 
 schinese.f2_chaosass = "混沌分裂者是从基金会脱离的叛离派系。最初是一支叛变分队擅自将数个核心 SCP 物品私自带走撤离并成立了自身组织。"
 
@@ -1583,7 +1583,7 @@ schinese.heli_pilot_ready = "武装直升机已完成油料加注。一切准备
 schinese.heli_pilot_evacuation_table_no = "救援直升机机舱载荷已满员，你无法登上这架飞机进行撤离。"
 
 //Class-D
-schinese.role.ClassD_Head = "D级人员 领袖"
+schinese.role.ClassD_Head = "D级人员 头子"
 
 //SCP
 schinese.role.SCP058 = "SCP-058"
@@ -1758,7 +1758,7 @@ schinese.perk_lone_wolf_name = "提升自我"
 schinese.perk_lone_wolf_sub = "孤勇作战"
 schinese.perk_lone_wolf_desc = "当你身边没有队友各自为战时，获得额外的伤害抗性减伤减免。"
 schinese.perk_together_strong_name = "齐心协力"
-schinese.perk_together_strong_sub = "战术协同"
+schinese.perk_together_strong_sub = "团结就是力量!"
 schinese.perk_together_strong_desc = "身边每多一名同样配备此专长的友军，自身所受伤害抗性便叠加一层提升。"
 
 ALLLANGUAGES.schinese = schinese
